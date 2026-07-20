@@ -1,4 +1,4 @@
-# TIP-AND-TAX-BILL-CALCULATOR
+# TIP-AND-TAX-BILL-CALCULATOR-V1
 Program where you input your subtotal and it will automatically calculate your total bill with 15% tip rate and 12% tax rate
 
 ## Overview
